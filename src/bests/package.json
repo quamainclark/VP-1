@@ -8,7 +8,7 @@
     "request-promise-native": "^1.0.5",
     "compression": "^1.7.2",
     "serve-index": "^1.9.1",
-    "node-fetch": "^2.1.2",
+    "node-fetch": "^2.6.7",
     "cloc": "^2.3.3",
     "commonmark": "^0.28.1",
     "sequelize": "^4.37.6",
